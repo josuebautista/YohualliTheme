@@ -1,0 +1,42 @@
+{
+  "name": "yohualli-theme",
+  "displayName": "Yohualli Theme",
+  "description": "Midnight color scheme with elegant colors.",
+  "icon": "./assets/yohualli-logo.jpg",
+  "version": "0.0.1",
+  "publisher": "AlejandroHernandez",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yohualli Nebulune",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebulune-color-theme.json"
+      },
+      {
+        "label": "Yohualli Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eclipse-color-theme.json"
+      },
+      {
+        "label": "Yohualli Lunaris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lunaris-color-theme.json"
+      },
+      {
+        "label": "Yohualli Penumbra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/penumbra-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josuebautista/JacarandaTheme"
+  }
+}
