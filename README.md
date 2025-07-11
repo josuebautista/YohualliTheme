@@ -39,10 +39,10 @@ Each theme defines:
 
 ## 📸 Screenshots (TODO)
 
-- [Nebolune](./assets/nebulune-preview.avif) Nebulune  
-- [Eclipse](./assets/eclipse-preview.avif) Eclipse
-- [Lunaris](./assets/lunaris-preview.avif) Lunaris
-- [Penumbra](./assets/penumbra-preview.avif) Penumbra
+- [Nebolune](./assets/nebulune-preview.jpg) Nebulune  
+- [Eclipse](./assets/eclipse-preview.jpg) Eclipse
+- [Lunaris](./assets/lunaris-preview.jpg) Lunaris
+- [Penumbra](./assets/penumbra-preview.jpg) Penumbra
 
 ---
 
